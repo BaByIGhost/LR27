@@ -20,4 +20,4 @@
 
 ![image](https://user-images.githubusercontent.com/119486614/205444308-ed7a3a3e-1319-4f77-8a04-6c701c216773.png)
 
-Рисунок 27.4 - Окно Inspector объекта Snake
+Рисунок 27.4 - Окно Inspector объекта Player Paddle
